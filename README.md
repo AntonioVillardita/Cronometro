@@ -1,2 +1,8 @@
+
+![](preview.png)
+
 # Cronometro
-Un piccolo semplice cronometro che mostra ore, minuti e secondi, senza i centesimi. Creato per sperimentare con "setInterval()"
+
+## Descrizione
+
+Un piccolo e semplice cronometro con un solo tasto "AVVIA" che mostra ore, minuti e secondi, senza i centesimi o millesimi. Creato per sperimentare con "setInterval()"
